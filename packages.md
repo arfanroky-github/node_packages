@@ -9,7 +9,7 @@
 ![alt text](flattened.png)
 
 - With hardlinks and symlinks, PNPM solved the issue above in contrast to NPM. PNPM grouped all dependencies by symlink, but retained all the dependencies.
-![alt text](symlink.png)
+[alt text](symlink.png)
 
 
 # 2. Security
